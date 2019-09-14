@@ -4,7 +4,8 @@
     <list default="true" id="1efb3018-accf-442f-8a9c-f3db0dc6e281" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/RoomsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RoomsContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RoomsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RoomsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RoomsFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RoomsFilter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <workItem from="1568436085797" duration="61000" />
       <workItem from="1568436186632" duration="129000" />
       <workItem from="1568437111078" duration="69000" />
-      <workItem from="1568437883413" duration="16244000" />
+      <workItem from="1568437883413" duration="24894000" />
     </task>
     <servers />
   </component>
